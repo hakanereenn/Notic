@@ -2,8 +2,8 @@
 # Notic
 
 Kişinin kolaylıkla not tutmasını sağlayan bir projedir. Proje tasarlanırken yalın , basit bir şekilde kullanım sunması amaçlanmıştır.
-
-###[GooglePlay](https://play.google.com/store/apps/details?id=com.lcycle.notic) 
+### GooglePlay
+[Uygulamayı burada indirebilirsiniz.](https://play.google.com/store/apps/details?id=com.lcycle.notic) 
 
 ## Ekran Görüntüleri
 Ana Ekran|Not Ekleme Alanı|Etiket Ekleme Alanı|Not Okuma Ekranı|Karanlık Modda Ana Ekranı|Karanlık Modda Not Okuma Ekranı|
