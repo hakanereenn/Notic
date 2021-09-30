@@ -1,16 +1,69 @@
-# notes_app
 
-A new Flutter project.
+# Notic
 
-## Getting Started
+Kişinin kolaylıkla not tutmasını sağlayan bir projedir. Proje tasarlanırken yalın , basit bir şekilde kullanım sunması amaçlanmıştır.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Ekran Görüntüleri
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Uygulama Ekran Görüntüsü](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009015.png?raw=true)
+![Uygulama Ekran Görüntüsü](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009018.png?raw=true)
+![Uygulama Ekran Görüntüsü](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009363.png?raw=true)
+![Uygulama Ekran Görüntüsü](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009417.png?raw=true)
+![Uygulama Ekran Görüntüsü](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009425.png?raw=true)
+![Uygulama Ekran Görüntüsü](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009435.png?raw=true)
+
+  
+## Bilgisayarınızda Çalıştırın
+
+Projeyi klonlayın
+
+```bash
+  git clone https://github.com/flyboy12/Notic.git
+```
+
+Gerekli paketleri yükleyin
+
+```bash
+flutter pub get  
+```
+Kaynak kodunun otomatik sekronize edilmesini sağlamak için bu komutu girin:
+
+```bash
+flutter packages pub run build_runner watch
+```
+
+  
+
+  
+## Özellikler
+
+- Açık/koyu mod geçişi
+- Notları etiketleme
+- Notu paylaşma
+- Tüm platformlara destek
+
+  
+## Kütüphaneler & Kullanılan Araçlar
+
+`provider`
+
+`shared_preferences`
+
+`path_provider`
+
+`intl`
+
+`clipboard`
+
+`share`
+
+`easy_localization`
+
+`hive`
+
+  
+![Logo](https://github.com/flyboy12/Notic/blob/main/android/app/src/main/res/drawable/launch_image.png?raw=true)
+
+    
