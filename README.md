@@ -7,7 +7,7 @@ Kişinin kolaylıkla not tutmasını sağlayan bir projedir. Proje tasarlanırke
 ## Ekran Görüntüleri
 -|-|-|-|-|-|
 :-:|:-:|:-:|:-:|:-:|:-:|
-![](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009015.png?raw=true)|![](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009018.png?raw=true)![](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009015.png?raw=true)|![](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009018.png?raw=true)![](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009015.png?raw=true)|![](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009018.png?raw=true)
+![](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009015.png?raw=true)|![](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009018.png?raw=true)|![](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009015.png?raw=true)|![](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009018.png?raw=true)|![](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009015.png?raw=true)|![](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009018.png?raw=true)
 
   
 
