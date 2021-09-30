@@ -4,15 +4,13 @@
 Kişinin kolaylıkla not tutmasını sağlayan bir projedir. Proje tasarlanırken yalın , basit bir şekilde kullanım sunması amaçlanmıştır.
 
 
-
 ## Ekran Görüntüleri
+-|-|-|-|-|-|
+:-:|:-:|:-:|:-:|:-:|:-:|
+![](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009015.png?raw=true)|![](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009018.png?raw=true)![](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009015.png?raw=true)|![](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009018.png?raw=true)![](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009015.png?raw=true)|![](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009018.png?raw=true)
 
-![Uygulama Ekran Görüntüsü](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009015.png?raw=true)
-![Uygulama Ekran Görüntüsü](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009018.png?raw=true)
-![Uygulama Ekran Görüntüsü](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009363.png?raw=true)
-![Uygulama Ekran Görüntüsü](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009417.png?raw=true)
-![Uygulama Ekran Görüntüsü](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009425.png?raw=true)
-![Uygulama Ekran Görüntüsü](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009435.png?raw=true)
+  
+
 
   
 ## Bilgisayarınızda Çalıştırın
