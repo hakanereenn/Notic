@@ -3,11 +3,12 @@
 
 Kişinin kolaylıkla not tutmasını sağlayan bir projedir. Proje tasarlanırken yalın , basit bir şekilde kullanım sunması amaçlanmıştır.
 
+###![GooglePlay](https://play.google.com/store/apps/details?id=com.lcycle.notic) 
 
 ## Ekran Görüntüleri
--|-|-|-|-|-|
+Ana Ekran|Not Ekleme Alanı|Etiket Ekleme Alanı|Not Okuma Ekranı|Karanlık Modda Ana Ekranı|Karanlık Modda Not Okuma Ekranı|
 :-:|:-:|:-:|:-:|:-:|:-:|
-![](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009015.png?raw=true)|![](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009018.png?raw=true)|![](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009015.png?raw=true)|![](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009018.png?raw=true)|![](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009015.png?raw=true)|![](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009018.png?raw=true)
+![1](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009015.png?raw=true)|![2](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009018.png?raw=true)|![3](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009363.png?raw=true)|![4](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009417.png?raw=true)|![5](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009425.png?raw=true)|![6](https://github.com/flyboy12/Notic/blob/main/assets/github-image/Screenshot_1633009435.png?raw=true)
 
   
 
